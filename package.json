@@ -54,7 +54,7 @@
     "ws": "^1.1.1"
   },
   "dependencies": {
-    "http-proxy": "^1.16.2",
+    "http-proxy": "git+https://github.com/qband/node-http-proxy.git#support_cancel_proxyreq",
     "is-glob": "^3.1.0",
     "lodash": "^4.17.2",
     "micromatch": "^2.3.11"
